@@ -1,3 +1,3 @@
-# MyNewRepo(Github 101)
+# MyNewRepo(Github 101):
 A repository to learn connecting to GitHub remotely.
-This i my first ever GitHub repo!
+This is my first ever GitHub repo!!
